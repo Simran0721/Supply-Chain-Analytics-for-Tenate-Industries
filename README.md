@@ -13,12 +13,12 @@ To analyze the cost of make vs. buy options for Tenate Industries, a company sel
 
 ## Power BI Tools:
 - Get Data: Import the data tables into Power BI using the appropriate connector.
--	Power Query Editor: Clean, transform, and prepare the data for analysis.
--	Visualizations:
-    - Stacked Bar Charts: To compare the cost breakdown of make vs. buy options.
-    - Stacked Column Charts: To analyze the cost of different components for make and buy.
-    - Line Charts: To visualize the sensitivity of costs to changes in variables.
-    - Clustered Column Chart: To compare supplier quotes and in-house production costs.
+- Power Query Editor: Clean, transform, and prepare the data for analysis.
+- Visualizations:
+   - Stacked Bar Charts: To compare the cost breakdown of make vs. buy options.
+   - Stacked Column Charts: To analyze the cost of different components for make and buy.
+   - Line Charts: To visualize the sensitivity of costs to changes in variables.
+   - Clustered Column Chart: To compare supplier quotes and in-house production costs.
 - Interactivity:
   - Slicers: To filter data based on part numbers, suppliers, or other criteria.
   - Card: To display key metrics (e.g., total cost difference).
